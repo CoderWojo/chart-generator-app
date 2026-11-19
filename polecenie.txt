@@ -1,0 +1,9 @@
+Temat projektu
+> D.2  Aplikacja GUI do generowania wykresów (słupkowych, liniowych, kołowych)
+> .GUI w TKinter z  Klasami. Dane do wykresów podawane a)   z pliku
+> (txt, csv, xlsx), B) przez  losowanie
+> c) wpisywane ręcznie. Dane jedno lub wielo-wymiarowe (jeden wykres,
+> wiele linii). Przyciski/suwaki do skalowania i formatowania wykresu.
+> Opcja do zmiany kolorów wykresu, opisu wykresu, dodawania i usuwania
+> siatki. Przycisk Zapisu wykresu w postaci graficznej wyborem formatu
+> pliku
